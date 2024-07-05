@@ -1,6 +1,6 @@
 {
     "name": "@abdurahman/fuzzy-search",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple fuzzy search implementation",
     "main": "src/index.ts",
     "scripts": {
